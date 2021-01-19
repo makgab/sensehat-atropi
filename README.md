@@ -16,9 +16,9 @@ Barometric pressure
 # Installation
 To install the Sense HAT software, enter the following commands in a terminal:
 
-sudo apt-get update
-sudo apt-get install sense-hat
-sudo reboot
+> sudo apt-get update
+> sudo apt-get install sense-hat
+> sudo reboot
 
 # Usage
 Import the sense_hat module and instantiate a SenseHat object:
