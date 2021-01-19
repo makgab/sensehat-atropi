@@ -1,4 +1,4 @@
-# sensehat_astro-pi
+# SenseHAT_Astro-Pi
 Raspberry Pi SenseHAT (Astro-Pi) module
 Sense HAT
 Python module to control the Raspberry Pi Sense HAT used in the Astro Pi mission - an education outreach programme for UK schools sending code experiments to the International Space Station.
