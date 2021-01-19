@@ -1,1 +1,0 @@
-# SenseHAT examples
