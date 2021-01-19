@@ -23,9 +23,12 @@ To install the Sense HAT software, enter the following commands in a terminal:
 # Usage
 Import the sense_hat module and instantiate a SenseHat object:
 
+```python
+# from sense_emu import SenseHat
 from sense_hat import SenseHat
-
 sense = SenseHat()
+```
+
 
 # Documentation
 Comprehensive documentation is available at https://pythonhosted.org/sense-hat
