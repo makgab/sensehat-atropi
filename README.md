@@ -28,4 +28,5 @@ from sense_hat import SenseHat
 sense = SenseHat()
 
 # Documentation
-Comprehensive documentation is available at pythonhosted.org/sense-hat
+Comprehensive documentation is available at https://pythonhosted.org/sense-hat
+https://github.com/astro-pi/python-sense-hat
